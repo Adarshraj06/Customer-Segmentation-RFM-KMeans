@@ -49,9 +49,10 @@ This project focuses on segmenting customers based on their behavior using **RFM
 ## 📂 Files
 | File/Folder | Description |
 |-------------|-------------|
-| `notebook/` | Python code used for RFM scoring and clustering |
-| `data/`     | Cleaned dataset used in Power BI |
-| `RFM_Dashboard.pbix` | Power BI dashboard file |
+| `Customer_Segmentation.ipynb` | Python code used for RFM scoring and clustering |
+| `Online Retail.xlsx`     | Dataset used for python work |
+| `rfm_customer_segments.csv`     | Cleaned dataset used in Power BI |
+| `RFM_segment_image.jpg` | Power BI dashboard Image |
 | `README.md` | This file |
 
 ---
